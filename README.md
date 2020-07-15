@@ -12,4 +12,5 @@ A Python program for auto behaviour on Instagram platform
 - No extra installation needed
 - Replace username and password in main.py
 - Change webdriver path in /Src/Get_Webdriver.py
+- Add new hashtag in hashtags.csv
 - Run main.py to play
