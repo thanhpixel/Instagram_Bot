@@ -1,5 +1,5 @@
 # Instagram_Bot
-A Python program for auto behaviour on Instagram platform
+A Python program for automatic behaviour on Instagram platform
 
 **Requirement before use:**
 - Python3.7
